@@ -2,7 +2,7 @@
 
 import express, { Application, Request, Response } from "express";
 
-const port = 5000;
+// const port = 5000;
 const app: Application = express();
 
 
